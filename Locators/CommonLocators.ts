@@ -6,6 +6,6 @@ export const CommonLocators = {
   fAQTabLocator: "(//a[contains(@class,'text-secondary-600 hover:text-primary-600')]/following-sibling::a)[3]",
   blogTabLocator: "//a[normalize-space(text())='Blog']",
   connectButtonLocator: "//button[normalize-space(text())='Connect']",
-  
+  // this is commit from nauman umers
   
 };
